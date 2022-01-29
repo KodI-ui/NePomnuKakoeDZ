@@ -1,1 +1,1 @@
-# NePomnuKakoeDZ
+Приветики), Там файлик Program.cs найди и все)
